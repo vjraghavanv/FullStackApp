@@ -15,6 +15,7 @@
         "chai": "^4.3.7",
         "chai-http": "^4.3.0",
         "eslint": "^8.41.0",
+        "eslint-plugin-react": "^7.34.0",
         "mocha": "^10.2.0",
         "supertest": "^6.3.3"
     }
